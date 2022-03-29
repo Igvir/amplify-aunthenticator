@@ -8,7 +8,6 @@ In this example, we will use the [Authenticator UI Component](https://docs.ampli
 
 We have bootstrapped this application using the [Angular CLI](https://cli.angular.io/).
 
-<img src="https://amplify-demo-assets.s3.amazonaws.com/screenshot.png" alt="screenshot" height="400px"/>
 
 ## Let's Get Started!
 
