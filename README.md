@@ -70,4 +70,3 @@ The config files in the `amplify` folder contain these instructions. If you star
 ## Next Steps
 
 - Read our [Authentication documentation](https://docs.amplify.aws/ui/auth/authenticator/q/framework/angular) to further customize your app. There are many advanced use cases to build upon.
-- Join our communities on [Twitter](https://twitter.com/awsamplify) and [Discord](https://discord.gg/amplify)
